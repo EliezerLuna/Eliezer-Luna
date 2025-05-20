@@ -1,7 +1,7 @@
 package ej1claseMuyLarga;
 
 import java.util.*;
-
+// Estoy añadiendo un comentario, para completar el ejercicio 1 del examen
 public class PlataformaEducativa {
 	private Map<String, String> usuarios; // username -> password
 	private Map<String, List<String>> cursos; // username -> cursos
